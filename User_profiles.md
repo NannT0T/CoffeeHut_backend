@@ -1,1 +1,3 @@
-
+Daily
+Monthly
+Quarterly
